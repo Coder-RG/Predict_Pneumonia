@@ -4,4 +4,4 @@ A ML model for Predicting Pneumonia from Chest Xray images available on [kaggle.
 Features of this project:
 * Learn to read image data into array.
 * Build a CNN model to classify images as **Normal** or **Pneumonic**.
-* Use keras for various aspects of model building.
+* Use Keras for various aspects of model building.
